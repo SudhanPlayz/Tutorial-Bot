@@ -1,0 +1,17 @@
+{
+  "name": "episode-1",
+  "version": "1.0.0",
+  "description": "Sudhan's Epic Tutorials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Epic"
+  ],
+  "author": "SudhanPlayz",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
