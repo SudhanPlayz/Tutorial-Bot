@@ -12,4 +12,4 @@ client.on("message", (message) => {//This event emites when a new messages comes
     }
 })
 
-client.login("NzE3NjE4OTk2NTQyOTYzNzEz.Xtc8xQ.UFOLmOa7XzvasS5W8Nom13_jX34")//Logging the client to discord!
+client.login("Insert the top secret token here")//Logging the client to discord!
