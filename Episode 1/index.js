@@ -13,3 +13,5 @@ client.on("message", (message) => {//This event emites when a new messages comes
 })
 
 client.login("Insert the top secret token here")//Logging the client to discord!
+
+//Yay! Episode 1 Complete!!
